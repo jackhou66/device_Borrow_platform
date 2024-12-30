@@ -3,10 +3,16 @@ replacing  the lib file as showing above
 ![image](https://github.com/user-attachments/assets/6cba4df7-780e-44eb-869a-d6b6deca7538)
 ![image](https://github.com/user-attachments/assets/426f9a82-7fec-4a68-b44d-eb87ae226485)
 
+Practice work: 
+Function: A platform for renting equipment (cross-platform) 
+Develop platform:  Android studio
+Language: Dart  
+Database: MySQL
+Extra Description: it is simple , but can be done practice
+
 server.js   as  middle
 for communicatiing Database and UI software 
 
-developing platform Android  studio 
 flutter version: 1.0.0+1
 environment:
   sdk: ^3.5.3
