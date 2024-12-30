@@ -6,6 +6,11 @@ version: 1.0.0+1
 environment:
   sdk: ^3.5.3
 
+server.js              as  middle  for communicatiing Database and UI software 
+developing platform    Android  studio
+
+
+
 # Dependencies specify other packages that your package needs in order to work.
 # To automatically upgrade your package dependencies to the latest versions
 # consider running flutter pub upgrade --major-versions. Alternatively,
